@@ -1,0 +1,12 @@
+document:
+  name: Implementation of INGV data policy
+  description: |
+    Implementation of data policy of the Istituto Nazionale di Geofisica e Vulcanologia.
+  tags:
+    - INGV
+    - data policy
+    - database
+    - dataset
+    - scientific research
+    - metadata
+    - FAIR
