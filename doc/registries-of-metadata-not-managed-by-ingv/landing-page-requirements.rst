@@ -1,5 +1,5 @@
-5.1 Landing Page Requirements
-=============================
+Landing Page Requirements
+=========================
 
 The Landing Page is the web page that is associated with the data either
 in the INGV and the external registries, which is to say the page the
