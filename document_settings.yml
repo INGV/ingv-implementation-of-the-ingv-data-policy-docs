@@ -1,7 +1,7 @@
 document:
-  name: Implementation of INGV data policy
+  name: Document implementing the INGV data policy
   description: |
-    Implementation of data policy of the Istituto Nazionale di Geofisica e Vulcanologia.
+    Document implementing the data policy of the Istituto Nazionale di Geofisica e Vulcanologia.
   tags:
     - INGV
     - data policy
