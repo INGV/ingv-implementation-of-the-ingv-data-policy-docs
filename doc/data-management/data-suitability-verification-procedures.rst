@@ -1,5 +1,5 @@
-3.3 Data Suitability Verification Procedures
-============================================
+Data Suitability Verification Procedures
+========================================
 
 Once its class is defined, before a data can be entered into the
 Registry, its suitability must be verified. The procedure for verifying

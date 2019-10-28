@@ -1,5 +1,5 @@
-3. Data Management
-==================
+Data Management
+===============
 
 The following are the rules and procedures adopted by INGV for data
 management, and the institutional bodies contributing towards their

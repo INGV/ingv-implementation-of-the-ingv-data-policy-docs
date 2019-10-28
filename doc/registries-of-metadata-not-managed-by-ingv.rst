@@ -1,5 +1,5 @@
-5. Registries of Metadata not Managed by INGV
-=============================================
+Registries of Metadata not Managed by INGV
+==========================================
 
 The data present in the INGV Data Registry can be linked on an
 institutional level to metadata registries not managed at INGV. Here,

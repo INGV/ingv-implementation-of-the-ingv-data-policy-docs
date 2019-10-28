@@ -1,7 +1,7 @@
 .. _data-registry-1:
 
-4. Data Registry
-================
+Data Registry
+=============
 
 The development of the Data Registry is a crucial condition for
 implementing the INGV Data Policy.

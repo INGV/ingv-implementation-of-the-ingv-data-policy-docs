@@ -1,5 +1,5 @@
-2.2 Strategy
-============
+Strategy
+========
 
 The implementation strategy for the INGV Data Policy described in this
 document is based on the development of the Data Registry as a technical

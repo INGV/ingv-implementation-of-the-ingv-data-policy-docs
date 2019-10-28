@@ -1,12 +1,12 @@
-2.3 Activity plan
-=================
+Activity plan
+=============
 
 The delicate phase of starting up and trialling the Data Registry and
 its subsequent ordinary management are entrusted to the Data Management
 Office.
 
-2.3.1 Start-up and Trial
-------------------------
+Start-up and Trial
+------------------
 
 This first phase has the dual purpose of beginning to populate the Data
 Registry with the elements reported in the Census in accordance with a
@@ -78,8 +78,8 @@ Directors deem it necessary to extend the trial phase, they shall define
 the procedures and duration thereof in concert with the Data Management
 Office.
 
-2.3.2 Ordinary Management
--------------------------
+Ordinary Management
+-------------------
 
 At the end of the Start-up and Trial phase, the Data Management Office
 will update the procedures, and where applicable the rules, for the Data

@@ -1,5 +1,5 @@
-3.1 Data Access Rules
-=====================
+Data Access Rules
+=================
 
 In accordance with what is stated in DP200, a fundamental principle for
 INGV is Open Access to scientific information, or guaranteeing access

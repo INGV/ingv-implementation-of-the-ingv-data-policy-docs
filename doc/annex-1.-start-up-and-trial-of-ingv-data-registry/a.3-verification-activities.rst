@@ -1,5 +1,5 @@
-A.3 Verification Activities
-===========================
+Verification Activities
+=======================
 
 The Data Registry verification activities must be aimed at ascertaining
 the actual functioning of the implemented databases (in compliance with

@@ -1,5 +1,5 @@
-4.2 Ordinary management of the Data Registry
-============================================
+Ordinary management of the Data Registry
+========================================
 
 The Data Registry’s Ordinary management involves, at various levels, the
 following institutional parties:
@@ -16,8 +16,8 @@ following institutional parties:
 -  The Data Management Office, which coordinates and manages the entire
    procedural process.
 
-4.2.1 Admissibility criteria
-----------------------------
+Admissibility criteria
+----------------------
 
 For the purposes of their entry in the Data Registry, the data must
 comply with certain admissibility criteria.
@@ -95,8 +95,8 @@ infrastructure hosting the data, and describe whether and how the
 adopted solutions guarantee both the conservation and the accessibility
 to the data over the long term.
 
-4.2.2 Procedure for entering elements
--------------------------------------
+Procedure for entering elements
+-------------------------------
 
 The ordinary submission procedure is composed of the following steps
 (Figure 2):
@@ -175,8 +175,8 @@ The ordinary submission procedure is composed of the following steps
 |image0|\ *Fig. 2 – Block diagram of procedure for entering new elements
 into the Data Registry.*
 
-4.2.3 Modifications and supplements to elements
------------------------------------------------
+Modifications and supplements to elements
+-----------------------------------------
 
 Any requests for modifications to the metadata associated with the
 elements already present in the Data Registry will be made known by the
@@ -192,8 +192,8 @@ data present in the Data Registry; should inconsistencies be found, the
 DATA MANAGEMENT OFFICE will interact with the Data Manager for the
 appropriate actions.
 
-4.2.4 Removal of elements
--------------------------
+Removal of elements
+-------------------
 
 The removal of an element from the Data Registry may take place upon
 submission of a justified request by the Data Manager to the Data
@@ -207,8 +207,8 @@ asked to create a Landing Page explaining the reason for the removal and
 presenting, where it exists, a link to the element replacing the removed
 one.
 
-4.2.5 Licences associated with the elements
--------------------------------------------
+Licences associated with the elements
+-------------------------------------
 
 Since the regulations in force adopt the “open by default”
 principle [6]_ according to which *“The data [...] that administrations
@@ -240,8 +240,8 @@ attributed. The assigned license must be reported on the Landing Page of
 the site from which the data are distributed, the characteristics of
 which are detailed in point 5.2 below.
 
-4.2.6 Persistent identifiers associated with the elements
----------------------------------------------------------
+Persistent identifiers associated with the elements
+---------------------------------------------------
 
 The data entered into the Data Registry shall, in addition to a Registry
 identifier, also have a persistent identifier broadly adopted in a
@@ -250,8 +250,8 @@ DataCite, whose metadata scheme is adopted [15]_. For details on the
 procedure for assigning this identifier, reference is made to Chapter 5,
 “Registries of metadata not managed by INGV.”
 
-4.2.7 Exclusion of liability and terms of use of the data
----------------------------------------------------------
+Exclusion of liability and terms of use of the data
+---------------------------------------------------
 
 The Data Management Office, in concert with the Legal Affairs and
 Litigation Office, will establish, on a case-by-case basis, the

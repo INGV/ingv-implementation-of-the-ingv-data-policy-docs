@@ -1,5 +1,5 @@
-6.1 Tasks of the Data Management Office
-=======================================
+Tasks of the Data Management Office
+===================================
 
 The Data Management Office pursues its purposes in accordance with an
 Activity Plan that defines the yearly objectives and describes in detail

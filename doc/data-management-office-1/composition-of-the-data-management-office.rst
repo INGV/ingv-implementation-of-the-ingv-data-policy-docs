@@ -1,5 +1,5 @@
-6.2 Composition of the Data Management Office
-=============================================
+Composition of the Data Management Office
+=========================================
 
 The composition of the Data Management Office takes account of the
 Guidelines of Agenzia dell'Italia Digitale (AgID) 2017 [1]_, adapting

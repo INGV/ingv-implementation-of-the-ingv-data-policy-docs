@@ -1,5 +1,5 @@
-4.1 Metadata
-============
+Metadata
+========
 
 The following is the list of metadata needed to describe each element in
 the Data Registry (Table 1). This list may foreseeably be supplemented

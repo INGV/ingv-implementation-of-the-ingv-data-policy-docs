@@ -1,5 +1,5 @@
-2.1 Objectives
-==============
+Objectives
+==========
 
 In keeping with the definitions made in DP200, the INGV Data Policy has
 the purpose of:

@@ -1,12 +1,12 @@
-5.2 DOIs
-========
+DOIs
+====
 
 The Data Management Office will, where possible, associate each element
 of the Data Registry with a persistent DOI, entering the related
 metadata into the DataCite registry [1]_.
 
-5.2.1 Guidelines for Assignment
--------------------------------
+Guidelines for Assignment
+-------------------------
 
 Assignment of a DOI is bound by a series of mandatory conditions, since:
 
@@ -76,8 +76,8 @@ publications. For a more functional use, it is recommended that the code
 be presented in the form of a resolvable address (e.g.:
 https://doi.org/10.13127/xxxx).
 
-5.2.2 Guidelines for Compiling Metadata
----------------------------------------
+Guidelines for Compiling Metadata
+---------------------------------
 
 The metadata to be associated with the DOI adopt the DataCite
 schema [4]_ in its most recent version. This document makes reference to
@@ -416,8 +416,8 @@ Table 2 - Metadata with mandatory compilation.
 |                 |                 |                 | formats here.   |
 +-----------------+-----------------+-----------------+-----------------+
 
-5.2.3 Relationships with other research products
-------------------------------------------------
+Relationships with other research products
+------------------------------------------
 
 The DataCite metadata schema allows the DOI to be linked to other
 digital resources available on the Internet. The “relatedldentifier” tag
@@ -527,8 +527,8 @@ metadata scheme.*
 | Requires                          | Indicates A requires B            |
 +-----------------------------------+-----------------------------------+
 
-5.2.4 Identification of Fragments of Complex Data
--------------------------------------------------
+Identification of Fragments of Complex Data
+-------------------------------------------
 
 In order to recover a subset of a set of data (fragment or subset) that
 is associated with a DOI, solutions may be used to avoid the unnecessary

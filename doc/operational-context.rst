@@ -1,5 +1,5 @@
-2. Operational Context
-======================
+Operational Context
+===================
 
 .. toctree::
   :maxdepth: 3

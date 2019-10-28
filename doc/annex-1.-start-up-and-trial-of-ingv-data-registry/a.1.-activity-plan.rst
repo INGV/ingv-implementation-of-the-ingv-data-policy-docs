@@ -1,5 +1,5 @@
-A.1. Activity Plan
-==================
+ Activity Plan
+==============
 
 The Data Management Office (*Ufficio Gestione Dati* – UGD) is
 constituted with the appointment of its members, by Decree of the

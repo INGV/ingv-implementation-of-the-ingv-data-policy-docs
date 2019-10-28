@@ -1,7 +1,7 @@
 .. _data-management-office-1:
 
-6 Data Management Office
-========================
+Data Management Office
+======================
 
 The institution of the Data Management Office responds to the
 “Professionalism” principle of DP200. This principle enshrines INGV’s

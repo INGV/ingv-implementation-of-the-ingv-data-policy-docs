@@ -1,5 +1,5 @@
-5.3 Italian INSPIRE data registry for spatial data
-==================================================
+Italian INSPIRE data registry for spatial data
+==============================================
 
 The national registry of spatial data (National Catalog for Spatial
 Data, *Repertorio Nazionale dei Dati Territoriali* – RNDT) [1]_ was
@@ -24,8 +24,8 @@ force, remains fully responsible for the correctness and updating
 thereof, as well as for the management and updating of the data to which
 said metadata refer.
 
-5.3.1 Spatial data of general interest
---------------------------------------
+Spatial data of general interest
+--------------------------------
 
 In describing the content of the RNDT, lawmakers define in detail 110
 types of “Data of general interest,” and INGV controls some of them,
@@ -81,8 +81,8 @@ for accreditation of Public Administrations,” [5]_ with the
 accreditation procedure of Public Administrations required to contribute
 to the Registry.
 
-5.3.2 Guidelines for Compiling RNDT Metadata
---------------------------------------------
+Guidelines for Compiling RNDT Metadata
+--------------------------------------
 
 The “RNDT” metadata profile is based on ISO Standards 19115, 19119, and
 TS 19139, produced by the ISO/TC211 [6]_ Technical Committee which deals

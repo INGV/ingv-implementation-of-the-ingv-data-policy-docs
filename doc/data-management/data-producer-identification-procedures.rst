@@ -1,5 +1,5 @@
-3.2 Data Producer Identification Procedures
-===========================================
+Data Producer Identification Procedures
+=======================================
 
 As concerns compliance with the rules governing the management of the
 data of Public Administration, and for the purposes of entering the data
