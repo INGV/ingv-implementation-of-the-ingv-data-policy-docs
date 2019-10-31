@@ -25,10 +25,11 @@ DOCUMENT IMPLEMENTING THE INGV DATA POLICY
    Document implementing the INGV Data Policy
   
 .. toctree::
-   :numbered:
-   :caption: Index
+   doc/introduction
 
-   doc/introduction.rst
+.. toctree::
+   :numbered:
+
    doc/definitions.rst
    doc/operational-context.rst
    doc/data-management.rst
